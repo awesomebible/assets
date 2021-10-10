@@ -18,6 +18,7 @@ Farbe 3:
 Farbe 4: 
 - HEX: ``#243b56``
 - RGBA: ``rgba(36; 59; 86; 1)``
+
 Farbe 5: 
 - HEX: ``#ffffff``
 - RGBA: ``rgba(225; 225; 225; 1)``
