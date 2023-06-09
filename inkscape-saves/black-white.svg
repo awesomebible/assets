@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58334 264.58333"
+   version="1.1"
+   id="svg195"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="black-white.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview197"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.52724989"
+     inkscape:cx="145.09249"
+     inkscape:cy="570.8868"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs192" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;stroke-width:0.516763;image-rendering:crisp-edges"
+       d="M 0,132.29167 V 0 H 132.29166 264.58333 V 132.29167 264.58333 H 132.29166 0 Z m 124.71486,42.76223 0.33973,-12.01476 10e-4,-15.11535 0.001,-15.11535 h -9.81866 -9.81853 v -7.48168 -7.48169 l 9.68934,-0.1406 9.68933,-0.1406 V 105.67831 93.792723 l -29.971946,-7.576101 -29.972328,-7.576097 -0.904335,-0.0462 -0.904338,-0.04617 v 46.657395 46.65736 l 29.843135,7.55618 29.843142,7.55617 0.82182,0.0467 0.82179,0.0467 0.33973,-12.01477 z m 46.8509,4.35686 30.23072,-7.63095 0.13197,-46.61581 0.132,-46.615823 -0.64871,-0.01508 -0.6487,-0.01508 -30.35989,7.579889 -30.35992,7.579892 v 12.072072 12.07211 h 9.56016 9.56013 v 7.49307 7.49309 h -9.56011 -9.56016 v 27.13012 27.13012 l 0.64596,-0.0127 0.64596,-0.0127 30.23071,-7.63097 z"
+       id="path181" />
+  </g>
+</svg>
